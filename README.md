@@ -2,7 +2,7 @@
 
 ## 📌 Descrição
 
-A **Pokédex** é uma aplicação web que permite explorar informações sobre diversos Pokémon. Ela foi desenvolvida com foco em aprimorar habilidades de desenvolvimento front-end, incluindo HTML, CSS e JavaScript.
+A **Pokédex** é uma aplicação web que permite explorar informações sobre diversos Pokémon. Ela foi desenvolvida com foco em aprimorar habilidades de desenvolvimento front-end, incluindo HTML, CSS e JavaScript. Este também é um projeto desenvolvido com o apoio da [DIO.me](https://dio.me).
 
 ## 📂 Acesso ao Projeto
 
