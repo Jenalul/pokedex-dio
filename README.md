@@ -7,10 +7,10 @@ A **Pokédex** é uma aplicação web que permite explorar informações sobre d
 ## 📂 Acesso ao Projeto
 
 Você pode acessar a versão online do projeto aqui:  
-🔗 [Pokédex Online](https://jenacarry.github.io/pokedex/)
+🔗 [Pokédex Online](https://jenalul.github.io/pokedex-dio/)
 
 Você pode acessar o código-fonte no GitHub:  
-🔗 [Repositório Pokédex no GitHub](https://github.com/JenaCarry/pokedex)
+🔗 [Repositório Pokédex no GitHub](https://github.com/Jenalul/pokedex-dio)
 
 ## 🚀 Funcionalidades
 
